@@ -1,5 +1,4 @@
-# LeetCode
-#### Leetcode Interview questions and challenges.
+## Leetcode Interview questions and challenges.
 =======
-# LeetCode-Challenge 
+### LeetCode-Challenge 
 All questions solved in python .
